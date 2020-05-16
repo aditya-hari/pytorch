@@ -1,0 +1,4 @@
+1. cifar10 (PyTorch dataset)
+2. mnist (PyTorch dataset)
+3. Pets (https://www.robots.ox.ac.uk/~vgg/data/pets/)
+4. NLP Names (https://download.pytorch.org/tutorial/data.zip)
